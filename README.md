@@ -32,9 +32,9 @@
 ### 6. Splitting the data into test and train
 
 ## PROGRAM:
-```python
-Done by:Ragul A.C
-Reg no : 212221240042
+```
+Done by:M.Suwetha
+Reg no : 212221230112
 import pandas as pd
 import numpy as np
 
